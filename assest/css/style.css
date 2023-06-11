@@ -130,7 +130,7 @@ p {
 
 .social-icons {
   size: 30px;
-  padding-top: 35px;
+  padding-top: 30px;
   display: flex;
   justify-content: center;
 }
@@ -142,7 +142,6 @@ p {
   text-decoration: none;
 }
 .social-icons .dc{
-  padding-top: 30px;
   padding-bottom: 25px;
   width: 30px;
   height: 30px;
